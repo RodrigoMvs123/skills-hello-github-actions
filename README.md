@@ -1,6 +1,7 @@
 <header>
 
-# Hello GitHub Actions
+# Hello GitHub Actions ![Twemoji_1f600 svg](https://github.com/user-attachments/assets/d75d6056-20ea-41c6-8e91-52388a6fe49d)
+
 
 _Create and run a GitHub Actions workflow._
 
